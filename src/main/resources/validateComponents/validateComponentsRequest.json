@@ -1,0 +1,20 @@
+{
+  "moboView": {
+    "id": 1,
+    "modelName": "mobo model 1",
+    "description": "a motherboard good for graphics",
+    "quantity": 1
+  },
+  "cpuView": {
+    "id": 1,
+    "modelName": "cpu model 1",
+    "description": "a powerful cpu",
+    "quantity": 1
+  },
+  "ramView": {
+    "id": 1,
+    "modelName": "cpu model 1",
+    "description": "a great ram",
+    "quantity": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "valid": false,
+  "invalidComponents": [
+    {
+      "id": "1",
+      "componentCategory": "RAM"
+    },
+    {
+      "id": "3",
+      "componentCategory": "GPU"
+    }
+  ]
+}

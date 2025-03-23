@@ -1,0 +1,16 @@
+{
+  "moboModels": [
+    {
+      "id":  1,
+      "name": "mobo1",
+      "description": "mobo for office",
+      "price": "49"
+    },
+    {
+      "id":  2,
+      "name": "mobo2",
+      "description": "mobo for gaming",
+      "price": "99"
+    }
+  ]
+}
