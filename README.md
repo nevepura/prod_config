@@ -6,7 +6,7 @@ Qui si trova un google doc con la documentazione testuale di come strutturare fr
 https://docs.google.com/document/d/13DCCHTfKeHchOT_LVzeo1i_Q30rV5KsLZfTwWgu6J-4/edit?usp=sharing
 
 Qui si trova una bozza del frontend. 
-https://github.com/nevepura/prod_config
+https://miro.com/app/board/uXjVIMOyBq4=/
 
 ## Esempi di API
 
